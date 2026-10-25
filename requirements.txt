@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+matplotlib
+camb
+cobaya
+clipy-like

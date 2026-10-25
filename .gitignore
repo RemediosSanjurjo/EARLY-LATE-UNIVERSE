@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos pesados / resultados (no subir)
+*.tar.gz
+*.clik/
+*.pkl
+*.csv
+*.covmat
+*.png
+planck_2018/

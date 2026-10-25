@@ -1,7 +1,7 @@
 # TFM – Modelo Early/Late Dark Energy con curvatura
 
-Código del TFM: ajuste del modelo de energía oscura Early/Late con curvatura
-espacial a los datos de Planck 2018 usando CAMB y Cobaya.
+Modelo de energía oscura Early/Late con curvatura
+espacial. Se evalúan los datos de Planck 2018 mediante CAMB y Cobaya.
 
 ## Contenido
 
